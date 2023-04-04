@@ -8,3 +8,4 @@ Here I uploaded 2 files One that was shown in demo and other with some modificat
 --In command promt go to the required folder where you have the code files.Run the app by following command,
 --streamlit run filename.py.
 --note replace filename with actual code file name.
+--Add image also same folder
